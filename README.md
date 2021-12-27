@@ -6,5 +6,9 @@
 
 <a href="https://gyazo.com/5cb7c57aba3bd10651b7b9e3b1805ae8"><img src="https://i.gyazo.com/5cb7c57aba3bd10651b7b9e3b1805ae8.gif" alt="Image from Gyazo" width="342"/></a>
 
+# 動作確認
+
+- https://ken0426.github.io/counter-app/
+
 # 開発目的
 - useStateの理解
